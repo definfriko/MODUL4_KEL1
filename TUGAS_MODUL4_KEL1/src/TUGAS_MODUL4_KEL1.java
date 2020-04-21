@@ -9,6 +9,7 @@ public class TUGAS_MODUL4_KEL1{
         int[] nilai = new int[100]; //untuk nilai yang diinputkan
         Scanner input = new Scanner(System.in) ;//membuat form input
         System.out.println("SELAMAT DATANG DI SSO UNDIP");
+        System.out.println("=========================");
         System.out.println("gimana nilai UAS nya pada bagus bagus kan?");
         System.out.println("yuk isi data diri dibawah untuk tau nilai rata rata kamu!");
         /* Mengambil data mahasiswa dan jumlah mata kuliahnya */
